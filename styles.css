@@ -3,3 +3,23 @@
     max-width: 4rem;
     max-height: 4rem;
 }
+p
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+body
+{
+    background-color: rgb(177, 177, 177);
+}
+.white
+{
+    background-color: rgb(236, 236, 236);
+}
+.gray
+{
+    background-color: rgb(85, 85, 85);
+}
+.wtext p
+{
+    color: white;
+}
