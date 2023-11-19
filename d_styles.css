@@ -15,6 +15,20 @@ span
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-decoration: none;
 }
+.font 
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    text-align: justify;
+    
+}
+.nadpis_2
+{
+    margin-top: 6rem;
+}
+
+
+
 .alba
 {
     flex-wrap: wrap;
@@ -22,4 +36,8 @@ span
 .img
 {
     width: 13rem;
+}
+.gray
+{
+    background-color: rgb(85, 85, 85);
 }
