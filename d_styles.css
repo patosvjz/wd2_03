@@ -1,0 +1,25 @@
+body
+{
+    background-color: rgb(177, 177, 177);
+}
+.nadpis
+{
+    margin-top: 10rem;
+}
+p
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+span
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+}
+.alba
+{
+    flex-wrap: wrap;
+}
+.img
+{
+    width: 13rem;
+}
