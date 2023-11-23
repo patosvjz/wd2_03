@@ -29,10 +29,6 @@ span
 
 
 
-.alba
-{
-    flex-wrap: wrap;
-}
 .img
 {
     width: 13rem;
@@ -40,4 +36,17 @@ span
 .gray
 {
     background-color: rgb(85, 85, 85);
+}
+
+.w-fit {
+    width: fit-content;
+}
+
+.row {
+    margin-left: 0!important;
+}
+
+nav > div {
+    display: flex;
+    align-items: center;
 }
